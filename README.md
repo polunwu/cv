@@ -5,6 +5,7 @@ My name is Polun Wu. I have started learning web development from multiple **fre
 
 The reasons I'm willing to attend **AppWorks School** is I really want to keep up with the industry and maybe sharpen my skills in real world projects with co-workers.
 
+
 ## About me
 ### Education: 
 - MS, Mechanical Engineering, National Central University, Taiwan. (2016.09 - 2019.01)
@@ -16,6 +17,7 @@ The reasons I'm willing to attend **AppWorks School** is I really want to keep u
 ### Working Experience:
 - Mechanical Engineer (Delta Electronics, Inc.)(less than 6 months)
 
+
 ## Current skills
 - HTML, CSS, JavaScript(ES6↑)
   - Have concepts of RWD
@@ -25,6 +27,7 @@ The reasons I'm willing to attend **AppWorks School** is I really want to keep u
 - Tools: Git and Github
 
 **Looking forward to learn:** Webpack, SPA, other JS Frameworks, Accessibility, NetWorking, Deploy, ...things that happends in real world projects
+
 
 ## How I learned Web development
 ## Projects
