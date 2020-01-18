@@ -29,5 +29,7 @@ The reasons I'm willing to attend **AppWorks School** is I really want to keep u
 **Looking forward to learn:** Webpack, SPA, other JS Frameworks, Accessibility, NetWorking, Deploy, ...things that happends in real world projects
 
 
-## How I learned Web development
+## How I learned Web development so far ~
+Here comes the fun part! Since I'm definitely a self-learning person, and I also know that there are tons and tons of **FREE** resources on the internet, so I started to research. There still have pros and cons doing this way, I may spending too much time searching and reading articles or online-tutorials that is out of dates, but the process is also kind of fun. Here are my favoraites:
+
 ## Projects
