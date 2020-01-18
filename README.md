@@ -18,12 +18,12 @@ The reasons I'm willing to attend **AppWorks School** is I really want to keep u
 
 
 ## Current skills
-1. HTML, CSS, JavaScript(ES6↑)
-... - concepts of RWD
-... - basic knowledge of FP, OOP, simple Data-Structure and Algorithm
-... - experience of using Node.js and NoSQL Databases
-2. **Currently learning React and Redux**
-3. Tools: Git and Github
+- HTML, CSS, JavaScript(ES6↑)
+  - concepts of RWD
+  - basic knowledge of FP, OOP, simple Data-Structure and Algorithm
+  - experience of using Node.js and NoSQL Databases
+- **Currently learning React and Redux**
+- Tools: Git and Github
 
 **Looking forward to learn:** Webpack, SPA, other JS Frameworks, Accessibility, NetWorking, Deploy, ...things that happends in real world projects
 
