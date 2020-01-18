@@ -25,6 +25,7 @@ The reasons I'm willing to attend **AppWorks School** is I really want to keep u
 - **Currently learning React and Redux**
 - Tools: Git and Github
 
+
 **Looking forward to learn:** Webpack, SPA, other JS Frameworks, Accessibility, NetWorking, Deploy, ...things that happends in real world projects
 
 
@@ -33,6 +34,10 @@ Here comes the fun part! Since I'm definitely a self-learning person, and I know
 
 There still have pros and cons doing this way, I may spending too much time searching and reading articles or online-tutorials that is out of dates, but the process is also kind of fun and challenging. 
 
+
 Here comes my favoraites:
+- [freeCodeCamp.org](https://www.freecodecamp.org/): Build Concepts Level by Level. Project chanllanges definitely help bolster my skills.
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists): Best Front-End youtube channel ever. Explain complex things simply. Always keep on the trend.
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw): Daniel Shiffman is funny and well-knowledged. When I need to know somthing in detail or fundamental. I will come to here. 
 
 ## Projects
