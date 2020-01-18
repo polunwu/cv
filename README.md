@@ -55,8 +55,6 @@ Since I'm working on React now, here are some small projects build with React Co
 - [Markdown Previwer](https://codepen.io/Polunwu/full/wvBXOoE)
 
   Useful interface to preview markdown files. Build with third party module [markedjs](https://github.com/markedjs/marked).
-  
-  
-  
-  
-  Thanks for your watching ❤️
+
+*****
+Thanks for your watching 🎉
