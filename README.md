@@ -37,9 +37,26 @@ There still have pros and cons doing this way, I may spending too much time sear
 
 These are my favoraites:
 - [freeCodeCamp.org](https://www.freecodecamp.org/): Build concepts level by level. Project chanllanges definitely help bolster my skills. Checkout my account → [here](https://www.freecodecamp.org/polun).
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists): Best Front-End youtube channel ever. Explain complex things simply. Always keep on the trend.
-- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw): Daniel Shiffman is funny and well-knowledged. When I need to know somthing in detail or fundamental. I will come to here. 
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists): 
+  Best Front-End youtube channel ever. Explain complex things simply. Always keep on the trend.
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw): 
+  Daniel Shiffman is funny and well-knowledged. When I need to know somthing in detail or fundamental. I will come to here. 
 - Online-books: [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS),  [Eloquent JavaScript 3rd edition](https://wizardforcel.gitbooks.io/eloquent-js-3e/content/)
 
 
 ## Projects
+Since I'm working on React now, here are some small projects build with React Components. Please check it out!
+- [Drum Machine](https://polunwu.github.io/drum-machine)
+
+  Beat machine whitch can play mutiple audio sounds.
+- [JS Calculator](https://codepen.io/Polunwu/full/jOEvLOo)
+
+  Calculator with functionality similar with iPhone. Validation user input is quite challenging. 
+- [Markdown Previwer](https://codepen.io/Polunwu/full/wvBXOoE)
+
+  Useful interface to preview markdown files. Build with third party module [markedjs](https://github.com/markedjs/marked).
+  
+  
+  
+  
+  Thanks for your watching ❤️
