@@ -9,7 +9,7 @@ The reasons I'm willing to attend **AppWorks School** is I really want to keep u
 ### Education: 
 - MS, Mechanical Engineering, National Central University, Taiwan. (2016.09 - 2019.01)
   - ASME 2019 - "Customized PEEK Implants with Microporous and Surface Modification Using 3D Printing"
-  - CSME 2018 = "3D Printing Process Optimization for Polyetheretherketone by Taghchi Method"
+  - CSME 2018 - "3D Printing Process Optimization for Polyetheretherketone by Taghchi Method"
   
 - BS, Mechanical Engineering, National Central University, Taiwan. (2012.09 - 2016.06)
 
