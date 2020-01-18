@@ -17,5 +17,14 @@ The reasons I'm willing to attend **AppWorks School** is I really want to keep u
 - Mechanical Engineer (Delta Electronics, Inc.)(less than 6 months)
 
 ## Current skills
+- HTML, CSS, JavaScript(ES6↑)
+  - Have concepts of RWD
+  - Have basic knowledge of FP, OOP, simple Data-Structure and Algorithm
+  - Have experience using Node.js and NoSQL Databases
+- **Currently learning React and Redux**
+- Tools: Git and Github
+
+**Looking forward to learn:** Webpack, SPA, other JS Frameworks, Accessibility, NetWorking, Deploy, ...things that happends in real world projects
+
 ## How I learned Web development
 ## Projects
